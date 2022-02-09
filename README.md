@@ -12,7 +12,7 @@ Create a Production GoDaddy API Key and Secret from [here](https://developer.god
 
 ## Usage
 ```
-const GoDaddy = require('godaddy-api');
+const GoDaddy = require('x-godaddy-api');
 godaddy = GoDaddy(<API_KEY>, <API_SECRET>);
 ```
 
