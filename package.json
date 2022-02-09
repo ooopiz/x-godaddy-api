@@ -1,6 +1,6 @@
 {
-  "name": "godaddy-api",
-  "version": "1.0.2",
+  "name": "x-godaddy-api",
+  "version": "1.0.4",
   "description": "GoDaddy API generated from https://developer.godaddy.com/doc",
   "main": "./index.js",
   "scripts": {
@@ -13,7 +13,7 @@
     "Godaddy",
     "API"
   ],
-  "author": "Hasan Kumar",
+  "author": "X",
   "license": "MIT",
   "devDependencies": {
     "camelcase": "^4.1.0",
@@ -34,13 +34,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mintuhouse/godaddy-api.git"
-  },
-  "bugs": {
-    "url": "https://github.com/mintuhouse/godaddy-api/issues"
+    "url": "git+https://github.com/ooopiz/x-godaddy-api.git"
   },
   "directories": {
     "test": "./test"
-  },
-  "homepage": "https://github.com/mintuhouse/godaddy-api#readme"
+  }
 }
